@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Behcoder
 - 👀 I’m interested in Python, HTML, Css, JS
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me behrcoder1979gmail.com
 
